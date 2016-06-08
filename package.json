@@ -1,6 +1,6 @@
 {
   "name": "fb-msg-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facebook Messenger Bot Api",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,8 @@
   },
   "keywords": [
     "facebook",
-    "messenger"
+    "messenger",
+    "gat-blac"
   ],
   "author": "Gat-Blac <contacto@gat-blac.com> (http://gat-blac.com)",
   "license": "MIT",
