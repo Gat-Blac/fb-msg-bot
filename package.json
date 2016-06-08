@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Facebook Messenger Bot Api",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Gat-Blac/fb-msg-bot.git"
@@ -14,7 +11,7 @@
     "facebook",
     "messenger"
   ],
-  "author": "Gat-Blac <contact@gat-blac.com> (http://gat-blac.com)",
+  "author": "Gat-Blac <contacto@gat-blac.com> (http://gat-blac.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Gat-Blac/fb-msg-bot/issues"
@@ -24,9 +21,5 @@
     "events": "^1.1.0",
     "request": "^2.72.0",
     "util": "^0.10.3"
-  },
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
   }
 }
